@@ -1,5 +1,4 @@
 declare const styles: {
-    Containers: string;
     rowMain: string;
     row1: string;
     marquee: string;

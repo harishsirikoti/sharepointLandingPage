@@ -1,4 +1,4 @@
-define("47ba9bfb-6fed-40ca-9e9d-46d6dc87feaa_3.0.1", ["@microsoft/sp-property-pane","MasterPageRow3WebPartStrings","@microsoft/sp-core-library","@microsoft/sp-webpart-base","react","react-dom"], function(__WEBPACK_EXTERNAL_MODULE__26ea__, __WEBPACK_EXTERNAL_MODULE_U5jc__, __WEBPACK_EXTERNAL_MODULE_UWqr__, __WEBPACK_EXTERNAL_MODULE_br4S__, __WEBPACK_EXTERNAL_MODULE_cDcd__, __WEBPACK_EXTERNAL_MODULE_faye__) { return /******/ (function(modules) { // webpackBootstrap
+define("47ba9bfb-6fed-40ca-9e9d-46d6dc87feaa_3.0.4", ["@microsoft/sp-property-pane","MasterPageRow3WebPartStrings","@microsoft/sp-core-library","@microsoft/sp-webpart-base","react","react-dom"], function(__WEBPACK_EXTERNAL_MODULE__26ea__, __WEBPACK_EXTERNAL_MODULE_U5jc__, __WEBPACK_EXTERNAL_MODULE_UWqr__, __WEBPACK_EXTERNAL_MODULE_br4S__, __WEBPACK_EXTERNAL_MODULE_cDcd__, __WEBPACK_EXTERNAL_MODULE_faye__) { return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 /******/
@@ -5108,7 +5108,7 @@ var MyTrainings = function (props) {
     return (react__WEBPACK_IMPORTED_MODULE_0__["createElement"](react__WEBPACK_IMPORTED_MODULE_0__["Fragment"], null,
         react__WEBPACK_IMPORTED_MODULE_0__["createElement"]("div", { className: "rowMain3" },
             react__WEBPACK_IMPORTED_MODULE_0__["createElement"]("div", { className: "row31" },
-                react__WEBPACK_IMPORTED_MODULE_0__["createElement"]("h2", null, "My Tainings")),
+                react__WEBPACK_IMPORTED_MODULE_0__["createElement"]("h2", null, "My Trainings")),
             console.log(trainingdata),
             react__WEBPACK_IMPORTED_MODULE_0__["createElement"]("table", { className: "training_table" },
                 react__WEBPACK_IMPORTED_MODULE_0__["createElement"]("th", null, "Title"),
@@ -8527,7 +8527,7 @@ exports.push([module.i, ".newPollForm{display:grid;grid-template-columns:140px 1
 
 exports = module.exports = __webpack_require__(/*! ../../../../node_modules/@microsoft/spfx-heft-plugins/node_modules/css-loader/dist/runtime/api.js */ "Z+AG")(false);
 // Module
-exports.push([module.i, "*{margin:0;padding:0;box-sizing:border-box}.Containers3{min-width:100%!important;padding:2px 10px;height:265px;color:#000;font-size:12px;-ms-flex-pack:center;justify-content:center;display:grid;grid-auto-columns:1fr;grid-auto-flow:column;text-align:center}.rowMain3{box-shadow:9px 10px 8px rgba(0,0,0,.2);transition:.3s;width:95%;height:250px;overflow:hidden;background-color:#f0f8ff;margin:4px;border:1px solid #f0f8ff;border-radius:20px}.row32{height:77%;width:89%;-ms-flex-pack:center;justify-content:center;text-align:center;color:#000;overflow-y:scroll;padding:4px 36px;box-sizing:content-box}.row31{background-color:#345978;position:relative;z-index:9999;height:29px;top:0;color:#fff}table.training_table{text-align:center;padding:15px 145px}", ""]);
+exports.push([module.i, "*{margin:0;padding:0;box-sizing:border-box}.Containers3{padding:0;margin:1px 0;height:265px;color:#000;font-size:12px;display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;text-align:center}.Containers3 div{width:100%;margin:0 2px}.rowMain3{box-shadow:9px 10px 8px rgba(0,0,0,.2);transition:.3s;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;height:100%;overflow:hidden;background-color:#f0f8ff;margin:1px;border:1px solid #f0f8ff;border-radius:20px}.row32{height:100%;-ms-flex-pack:center;justify-content:center;text-align:center;color:#000;overflow-y:scroll;box-sizing:content-box}.row31{background-color:#345978;position:relative;z-index:9999;height:29px;top:0;color:#fff}table.training_table{text-align:center;padding:0}", ""]);
 
 
 /***/ }),

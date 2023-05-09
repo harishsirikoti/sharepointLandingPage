@@ -3,7 +3,7 @@
   "solution": {
     "name": "landing-page-new",
     "id": "a8946d45-63fd-4949-8cf5-cdc8efc221b6",
-    "version": "1.0.0.3",
+    "version": "1.0.0.4",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,

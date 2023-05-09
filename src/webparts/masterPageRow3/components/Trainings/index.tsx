@@ -97,7 +97,7 @@ const MyTrainings = (props: IPollProps) => {
     <>
       <div className="rowMain3">
         <div className="row31">
-          <h2>My Tainings</h2>
+          <h2>My Trainings</h2>
         </div>
         {console.log(trainingdata)}
         <table className="training_table">

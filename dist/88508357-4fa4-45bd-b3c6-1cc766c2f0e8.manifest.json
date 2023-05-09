@@ -2,7 +2,7 @@
   "id": "88508357-4fa4-45bd-b3c6-1cc766c2f0e8",
   "alias": "MasterPageRow2WebPart",
   "componentType": "WebPart",
-  "version": "3.0.1",
+  "version": "3.0.4",
   "manifestVersion": 2,
   "requiresCustomScript": false,
   "supportedHosts": [
@@ -38,7 +38,7 @@
     "scriptResources": {
       "master-page-row-2-web-part": {
         "type": "path",
-        "path": "master-page-row-2-web-part.js"
+        "path": "master-page-row-2-web-part_c7677686e1afbf518b2c.js"
       },
       "@microsoft/sp-property-pane": {
         "type": "component",
@@ -47,7 +47,7 @@
       },
       "MasterPageRow2WebPartStrings": {
         "type": "path",
-        "path": "MasterPageRow2WebPartStrings_en-us.js"
+        "path": "MasterPageRow2WebPartStrings_en-us_e8a849b581bbcb862b8824f17050cd4f.js"
       },
       "@microsoft/sp-core-library": {
         "type": "component",

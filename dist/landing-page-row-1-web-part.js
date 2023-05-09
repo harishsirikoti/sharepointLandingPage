@@ -1,4 +1,4 @@
-define("1b090eaa-a6fa-4bfe-be94-6ceaba1c0ed6_3.0.1", ["@microsoft/sp-property-pane","LandingPageRow1WebPartStrings","@microsoft/sp-lodash-subset","@microsoft/sp-core-library","@microsoft/sp-webpart-base","react","react-dom"], function(__WEBPACK_EXTERNAL_MODULE__26ea__, __WEBPACK_EXTERNAL_MODULE__2TiY__, __WEBPACK_EXTERNAL_MODULE_Pk8u__, __WEBPACK_EXTERNAL_MODULE_UWqr__, __WEBPACK_EXTERNAL_MODULE_br4S__, __WEBPACK_EXTERNAL_MODULE_cDcd__, __WEBPACK_EXTERNAL_MODULE_faye__) { return /******/ (function(modules) { // webpackBootstrap
+define("1b090eaa-a6fa-4bfe-be94-6ceaba1c0ed6_3.0.4", ["@microsoft/sp-property-pane","LandingPageRow1WebPartStrings","@microsoft/sp-lodash-subset","@microsoft/sp-core-library","@microsoft/sp-webpart-base","react","react-dom"], function(__WEBPACK_EXTERNAL_MODULE__26ea__, __WEBPACK_EXTERNAL_MODULE__2TiY__, __WEBPACK_EXTERNAL_MODULE_Pk8u__, __WEBPACK_EXTERNAL_MODULE_UWqr__, __WEBPACK_EXTERNAL_MODULE_br4S__, __WEBPACK_EXTERNAL_MODULE_cDcd__, __WEBPACK_EXTERNAL_MODULE_faye__) { return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 /******/
@@ -13419,14 +13419,13 @@ __webpack_require__.r(__webpack_exports__);
 /* tslint:disable */
 __webpack_require__(/*! ./LandingPageRow1.module.css */ "JugH");
 var styles = {
-    Containers: 'Containers_7a28032b',
-    rowMain: 'rowMain_7a28032b',
-    row1: 'row1_7a28032b',
-    marquee: 'marquee_7a28032b',
-    row2: 'row2_7a28032b',
-    row3: 'row3_7a28032b',
-    'carousel-item': 'carousel-item_7a28032b',
-    active: 'active_7a28032b'
+    rowMain: 'rowMain_2059b9e6',
+    row1: 'row1_2059b9e6',
+    marquee: 'marquee_2059b9e6',
+    row2: 'row2_2059b9e6',
+    row3: 'row3_2059b9e6',
+    'carousel-item': 'carousel-item_2059b9e6',
+    active: 'active_2059b9e6'
 };
 /* harmony default export */ __webpack_exports__["default"] = (styles);
 /* tslint:enable */ 
@@ -14107,7 +14106,7 @@ function hoistStatics(source, dest) {
 
 exports = module.exports = __webpack_require__(/*! ../../../../../node_modules/@microsoft/spfx-heft-plugins/node_modules/css-loader/dist/runtime/api.js */ "Z+AG")(false);
 // Module
-exports.push([module.i, "*{margin:0;padding:0;box-sizing:border-box}.Containers_7a28032b{min-width:100%!important;height:200px;background-color:green;color:#fff;font-size:12px;display:grid;grid-template-columns:auto auto auto;text-align:center}.rowMain_7a28032b{border-right:2px solid #fff}.row1_7a28032b{animation:marquee_7a28032b 10s linear infinite;margin-top:140px!important}.row2_7a28032b{z-index:-1;background-color:#000}.row3_7a28032b{animation:marquee_7a28032b 10s linear infinite;margin-top:220px!important}@keyframes marquee_7a28032b{0%{transform:translateY(0)}to{transform:translateY(-100%)}}.carousel-item_7a28032b:not(.active_7a28032b){display:none}", ""]);
+exports.push([module.i, "*{margin:0;padding:0;box-sizing:border-box}.rowMain_2059b9e6{border-right:2px solid #fff}.row1_2059b9e6{animation:marquee_2059b9e6 10s linear infinite;margin-top:140px!important}.row2_2059b9e6{z-index:-1;background-color:#000}.row3_2059b9e6{animation:marquee_2059b9e6 10s linear infinite;margin-top:220px!important}@keyframes marquee_2059b9e6{0%{transform:translateY(0)}to{transform:translateY(-100%)}}.carousel-item_2059b9e6:not(.active_2059b9e6){display:none}", ""]);
 
 
 /***/ }),
@@ -31985,7 +31984,7 @@ function _onKeyDown(ev) {
 
 exports = module.exports = __webpack_require__(/*! ../../../../../node_modules/@microsoft/spfx-heft-plugins/node_modules/css-loader/dist/runtime/api.js */ "Z+AG")(false);
 // Module
-exports.push([module.i, "*{margin:0;padding:0;box-sizing:border-box}.Containers{min-width:100%!important;padding:2px 10px;height:265px;color:#000;font-size:12px;-ms-flex-pack:center;justify-content:center;display:grid;grid-auto-columns:1fr;grid-auto-flow:column;text-align:center}.birthday{margin-left:5px;-ms-flex-line-pack:center;align-content:center}.rowMain{box-shadow:9px 10px 8px rgba(0,0,0,.2);transition:.3s;width:95%;height:250px;overflow:hidden;background-color:#f0f8ff;margin:4px;border:1px solid #f0f8ff;border-radius:20px}.row1{animation:marquee 10s linear infinite;margin-top:100px}.row2{background-color:#345978;position:relative;z-index:9999;height:29px;top:0;color:#fff}.row3{animation:marquee 10s linear infinite;margin-top:100px}@keyframes marquee{0%{transform:translateY(0)}to{transform:translateY(-200%)}}.carousel-item:not(.active){display:none}", ""]);
+exports.push([module.i, "*{margin:0;padding:0;box-sizing:border-box}.Containers{margin:1px -11px 1px 0;padding:0;height:265px;color:#000;font-size:12px;display:grid;grid-template-columns:33% 33% 33%;column-gap:2px;text-align:center}.Containers div{margin:0 1px}.birthday{margin-left:5px;-ms-flex-line-pack:center;align-content:center}.rowMain{box-shadow:9px 10px 8px rgba(0,0,0,.2);transition:.3s;width:100%;height:265px;overflow:hidden;background-color:#f0f8ff;margin:0;border:1px solid #f0f8ff;border-radius:20px}.row1{animation:marquee 10s linear infinite;margin-top:100px}.row2{background-color:#345978;position:relative;z-index:9999;height:29px;top:0;color:#fff}.row3{animation:marquee 10s linear infinite;margin-top:100px}@keyframes marquee{0%{transform:translateY(0)}to{transform:translateY(-200%)}}.carousel-item:not(.active){display:none}", ""]);
 
 
 /***/ }),
